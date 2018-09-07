@@ -1,4 +1,5 @@
-# AAS-18-290-6DOF
+# AAS-18-290-6DOF:  Preprint Results
+# AAS-18-290-6DOF_manuscript:   Final Results
 ## virtual environment should include:
 ### Tensorflow 1.4 (latest version does not work well with Matplotlib)
 ### Python 3.5
