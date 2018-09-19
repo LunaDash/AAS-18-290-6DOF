@@ -123,7 +123,7 @@ class Plot_journal(object):
 
    
 def render_traj_3dof(traj, vf=None, scaler=None):
-   fig1 = plt.figure(1,figsize=plt.figaspect(0.5))
+    fig1 = plt.figure(1,figsize=plt.figaspect(0.5))
     fig1.clear()
     plt.figure(fig1.number)
     fig1.set_size_inches(8, 4, forward=True)
