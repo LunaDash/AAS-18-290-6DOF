@@ -35,9 +35,9 @@ class Plot_journal(object):
         ax = plt.gca()
         ax2 = ax.twinx()
 
-        lns1=ax.plot(ep,self.history['MeanReward'],'r',label='Mean R')
-        lns2=ax.plot(ep,np.asarray(self.history['MeanReward'])-np.asarray(self.history['StdReward']),'b',label='SD R')
-        lns3=ax.plot(ep,self.history['MinReward'],'g',label='Min R')
+        lns1=ax.plot(ep,self.history['MeanReward'],'r',label='Mean Reward')
+        lns2=ax.plot(ep,np.asarray(self.history['MeanReward'])-np.asarray(self.history['StdReward']),'b',label='StdDev Reward')
+        lns3=ax.plot(ep,self.history['MinReward'],'g',label='Min Reward')
         lns4=ax2.plot(ep,self.history['MeanSteps'],'m',linestyle=':',label='Mean Steps')
 
         lns = lns1+lns2+lns3+lns4
