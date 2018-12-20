@@ -1,9 +1,9 @@
 # AAS-18-290-6DOF:  Preprint Results
 # AAS-18-290-6DOF_manuscript:   Final Results
 ## virtual environment should include:
-### Tensorflow 1.4 (latest version does not work well with Matplotlib)
+### Tensorflow 
 ### Python 3.5
-### Matplotlib
+### Matplotlib 2.1.1  (newer versions mess up the plotting in notebook)
 ### Scipy
 ### jupyter
 
