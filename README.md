@@ -5,6 +5,7 @@
 ### Python 3.5
 ### Matplotlib 2.1.1  (newer versions mess up the plotting in notebook)
 ### Scipy
+### scikit-learn
 ### jupyter
 
 ### 1.) Download this repository
