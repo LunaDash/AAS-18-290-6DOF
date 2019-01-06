@@ -1,5 +1,12 @@
 # AAS-18-290-6DOF:  Preprint Results
 # AAS-18-290-6DOF_manuscript:   Final Results
+# Please cite the following paper if you publish work using this code:
+@article{gaudet2018deep,
+  title={Deep Reinforcement Learning for Six Degree-of-Freedom Planetary Powered Descent and Landing},
+  author={Gaudet, Brian and Linares, Richard and Furfaro, Roberto},
+  journal={arXiv preprint arXiv:1810.08719},
+  year={2018}
+}
 ## virtual environment should include:
 ### Tensorflow 
 ### Python 3.5
