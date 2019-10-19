@@ -1,3 +1,4 @@
+# Code for "Deep Reinforcement Learning for Six Degree-of-Freedom Planetary Powered Descent and Landing"
 # AAS-18-290-6DOF:  Preprint Results
 # AAS-18-290-6DOF_manuscript:   Final Results
 # Please cite the following paper if you publish work using this code:
@@ -7,6 +8,7 @@
   journal={arXiv preprint arXiv:1810.08719},
   year={2018}
 }
+# Note you may need to run several optimizations to achieve results comparable to that in the paper
 ## virtual environment should include:
 ### Tensorflow 
 ### Python 3.5
