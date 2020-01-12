@@ -1,12 +1,13 @@
-# Code for "Deep Reinforcement Learning for Six Degree-of-Freedom Planetary Powered Descent and Landing"
+# Code for ["Deep Reinforcement Learning for Six Degree-of-Freedom Planetary Powered Descent and Landing"](https://arxiv.org/abs/1810.08719)
 # AAS-18-290-6DOF:  Preprint Results
 # AAS-18-290-6DOF_manuscript:   Final Results
 # Please cite the following paper if you publish work using this code:
-@article{gaudet2018deep,
-  title={Deep Reinforcement Learning for Six Degree-of-Freedom Planetary Powered Descent and Landing},
+@article{gaudet2020deep,
+  title={Deep Reinforcement Learning for Six Degree-of-Freedom Planetary Landing},
   author={Gaudet, Brian and Linares, Richard and Furfaro, Roberto},
-  journal={arXiv preprint arXiv:1810.08719},
-  year={2018}
+  journal={Advances in Space Research},
+  year={2020},
+  publisher={Elsevier}
 }
 # Note you may need to run several optimizations to achieve results comparable to that in the paper
 ## virtual environment should include:
