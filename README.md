@@ -1,4 +1,4 @@
-# Code for ["Deep Reinforcement Learning for Six Degree-of-Freedom Planetary Powered Descent and Landing"](https://arxiv.org/abs/1810.08719)
+# Code for ["Deep Reinforcement Learning for Six Degree-of-Freedom Planetary Powered Descent and Landing"](https://doi.org/10.1016/j.asr.2019.12.030)
 # AAS-18-290-6DOF:  Preprint Results
 # AAS-18-290-6DOF_manuscript:   Final Results
 # Please cite the following paper if you publish work using this code:
